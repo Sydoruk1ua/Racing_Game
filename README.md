@@ -1,4 +1,4 @@
 # Racing_Game
-This is a simple game with using Swing library
+This is a grafic racing game. Swing library used.
 
 To play it download Racing_Game/out/artifacts/Racing_Game.jar
